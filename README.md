@@ -19,7 +19,7 @@
 ---
 Scan QR Code
 
-1. ***Get [SESSION-ID] by scanning QR code. (https:@sekitendemarkda/MAC-MD-1#main.sh)`Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID] by scanning QR code. (https://mac-md.onrender.com/) Or [`PARING CODE`](https://sohitechs.com/blog/18/#lin=macmdPair).Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
 2. ***Click [FORK](https://github.com/Maccoder3/MAC-MD/fork)***
